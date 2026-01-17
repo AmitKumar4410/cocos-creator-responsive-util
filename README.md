@@ -95,4 +95,4 @@ export class BackgroundSpineAnimation extends Component {
 
 ```
 # Licence
-Copyright © 2026 Amit Kumar. All Rights Reserved. This library is free for use in commercial projects. Redistribution or modification of the source code is prohibited.
+Copyright © 2026. All Rights Reserved. This library is free for use in commercial projects. Redistribution or modification of the source code is prohibited.
