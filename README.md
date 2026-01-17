@@ -73,9 +73,6 @@ export class GameManager extends Component {
 }
 
 For Spine or Individual Node scaling or resize
-import { _decorator, Component, view } from 'cc';
-import { Responsive } from 'cc-responsive-util';
-const { ccclass } = _decorator;
 
 @ccclass('BackgroundSpineAnimation')
 export class BackgroundSpineAnimation extends Component {
