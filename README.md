@@ -4,7 +4,7 @@ A robust, plug-and-play responsive layout utility for Cocos Creator 3.x.
 This library handles aspect ratio management, safe area adaptation, and specifically fixes scaling issues for Spine animations that do not work well with the standard Widget component.
 
 # 📥 Installation
-### Install via Download (Recommended)
+# Install via Download (Recommended)
 1.  **Get the Library:**
     Download the **`responsive-util-[version].tgz`** file provided by the developer.
 
@@ -25,7 +25,7 @@ This library handles aspect ratio management, safe area adaptation, and specific
     ```bash
     npm install ./libs/cc-responsive-util-[version].tgz
     ```
-### Install via GIT (Recommended)
+# Install via GIT (Recommended)
 This method allows you to use standard imports without manual file copying or path configuration.
 
 1.  Go to the **[Releases](../../releases)** page.
