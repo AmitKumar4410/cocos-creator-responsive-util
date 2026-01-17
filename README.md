@@ -5,8 +5,6 @@ This library handles aspect ratio management, safe area adaptation, and specific
 
 # 📥 Installation
 ### Install via Download (Recommended)
-# 📥 Installation
-
 1.  **Get the Library:**
     Download the **`responsive-util-[version].tgz`** file provided by the developer.
 
