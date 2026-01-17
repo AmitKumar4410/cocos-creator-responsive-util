@@ -8,7 +8,7 @@ This library handles aspect ratio management, safe area adaptation, and specific
 # 📥 Installation
 
 1.  **Get the Library:**
-    Download the **`cc-responsive-util-[version].tgz`** file provided by the developer.
+    Download the **`responsive-util-[version].tgz`** file provided by the developer.
 
 2.  **Add to Project:**
     Place the `.tgz` file inside your project folder (e.g., create a `libs` folder).
